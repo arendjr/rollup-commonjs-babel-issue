@@ -1,5 +1,5 @@
 # rollup-commonjs-babel-issue
-Minimal example showing issues with Rollup and the CommonJS and Babel plugins
+*Minimal example showing issue with Rollup and the CommonJS and Babel plugins*
 
 The issue is that `index.js` contains an ES6 class and with the transpilation
 taking place, the CommonJS plugin no longer is able to process the `require()`
